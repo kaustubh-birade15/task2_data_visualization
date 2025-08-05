@@ -48,4 +48,8 @@
 
  ## Author 🙌
 
- Data Analyst Intern **Kaustubh Birade** [GitHub](https://github.com/kaustubh-birade15) | [LinkedIn](www.linkedin.com/in/kaustubh-birade)
+ Data Analyst Intern **Kaustubh Birade**
+ ## Connect with me
+ [GitHub](https://github.com/kaustubh-birade15)
+ [LinkedIn](www.linkedin.com/in/kaustubh-birade)
+
